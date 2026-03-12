@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="lib/Op.jar"/>
 	<classpathentry kind="lib" path="lib/Merge.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC Gamer/Desktop/FATEC/QuickSort.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
